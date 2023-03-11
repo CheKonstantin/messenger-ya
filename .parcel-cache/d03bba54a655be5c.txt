@@ -1,4 +1,4 @@
-8166
+8164
 59/home/developer/Рабочий стол/messenger-ya/.nvmrc1678531365763462209 0
 85/home/developer/Рабочий стол/messenger-ya/src/components/inputs/inputs.hbs1678367012462741195 0
 74/home/developer/Рабочий стол/messenger-ya/src/components/inputs1678362472955732447 1
@@ -12,7 +12,6 @@
 91/home/developer/Рабочий стол/messenger-ya/src/pages/chatOpenProfile/indexTmpl.js1678533888206837450 0
 86/home/developer/Рабочий стол/messenger-ya/src/pages/registration/style.scss1677928535043407045 0
 82/home/developer/Рабочий стол/messenger-ya/src/pages/chatOpen/style.scss1678533536304775561 0
-80/home/developer/Рабочий стол/messenger-ya/src/pages/chatOpen/index.js1678532141268496679 0
 81/home/developer/Рабочий стол/messenger-ya/src/pages/profile/style.scss1677938715098872196 0
 70/home/developer/Рабочий стол/messenger-ya/src/pages/profile1678516284825127290 1
 76/home/developer/Рабочий стол/messenger-ya/src/pages/chat/index.js1678517077965187675 0
@@ -26,12 +25,13 @@
 63/home/developer/Рабочий стол/messenger-ya/src/static1678445848127071364 1
 56/home/developer/Рабочий стол/messenger-ya/src1678445891050827475 1
 59/home/developer/Рабочий стол/messenger-ya/App.js1678533714851777011 0
-75/home/developer/Рабочий стол/messenger-ya/dist/user.091ab9fd.svg1678533965062428019 0
-76/home/developer/Рабочий стол/messenger-ya/dist/index.43b35a30.css1678533964950428613 0
-75/home/developer/Рабочий стол/messenger-ya/dist/clip.dd7d8f24.svg1678518256515303477 0
-68/home/developer/Рабочий стол/messenger-ya/dist/index.html1678533964950428613 0
-80/home/developer/Рабочий стол/messenger-ya/dist/open-chat.654e5a56.png1678533964954428593 0
-75/home/developer/Рабочий стол/messenger-ya/dist/index.3d214d75.js1678533965018428253 0
+76/home/developer/Рабочий стол/messenger-ya/dist/index.d9070d80.css1678540865486216038 0
+80/home/developer/Рабочий стол/messenger-ya/dist/menu_bars.2f1cce18.svg1678540865482216062 0
+76/home/developer/Рабочий стол/messenger-ya/dist/group.850bc153.svg1678540863198229206 0
+68/home/developer/Рабочий стол/messenger-ya/dist/index.html1678540865486216038 0
+80/home/developer/Рабочий стол/messenger-ya/src/pages/chatOpen/index.js1678532141268496679 0
+80/home/developer/Рабочий стол/messenger-ya/dist/index.d9070d80.css.map1678540865494215992 0
+75/home/developer/Рабочий стол/messenger-ya/dist/user.5bbfb0d2.svg1678540865482216062 0
 110/home/developer/Рабочий стол/messenger-ya/node_modules/get-object/node_modules/kind-of/package.json1677807199377576572 0
 105/home/developer/Рабочий стол/messenger-ya/node_modules/get-object/node_modules/kind-of/LICENSE1447758397000000000 0
 106/home/developer/Рабочий стол/messenger-ya/node_modules/get-object/node_modules/kind-of/index.js1493120356000000000 0
@@ -72,6 +72,7 @@
 88/home/developer/Рабочий стол/messenger-ya/node_modules/argparse/lib/action.js1478692757000000000 0
 91/home/developer/Рабочий стол/messenger-ya/node_modules/argparse/lib/namespace.js1454747846000000000 0
 74/home/developer/Рабочий стол/messenger-ya/node_modules/argparse1677807199213577533 1
+88/home/developer/Рабочий стол/messenger-ya/dist/open-chat-profile.a53ed54f.png1678540865314217028 0
 86/home/developer/Рабочий стол/messenger-ya/node_modules/source-map/README.md1506355788000000000 0
 104/home/developer/Рабочий стол/messenger-ya/node_modules/source-map/lib/source-map-generator.js1506355788000000000 0
 94/home/developer/Рабочий стол/messenger-ya/node_modules/source-map/lib/quick-sort.js1492467891000000000 0
@@ -152,6 +153,7 @@
 89/home/developer/Рабочий стол/messenger-ya/node_modules/neo-async/pickSeries.js499162500000000000 0
 85/home/developer/Рабочий стол/messenger-ya/node_modules/neo-async/reduce.js499162500000000000 0
 85/home/developer/Рабочий стол/messenger-ya/node_modules/neo-async/select.js499162500000000000 0
+75/home/developer/Рабочий стол/messenger-ya/dist/index.1b2443cd.js1678540865486216038 0
 87/home/developer/Рабочий стол/messenger-ya/node_modules/neo-async/allLimit.js499162500000000000 0
 82/home/developer/Рабочий стол/messenger-ya/node_modules/neo-async/log.js499162500000000000 0
 84/home/developer/Рабочий стол/messenger-ya/node_modules/neo-async/apply.js499162500000000000 0
@@ -1119,7 +1121,6 @@
 123/home/developer/Рабочий стол/messenger-ya/node_modules/@parcel/runtime-js/lib/helpers/browser/prefetch-loader.js499162500000000000 0
 104/home/developer/Рабочий стол/messenger-ya/node_modules/@parcel/runtime-js/lib/helpers/browser1677806993818781225 1
 118/home/developer/Рабочий стол/messenger-ya/node_modules/@parcel/runtime-js/lib/helpers/worker/wasm-loader.js499162500000000000 0
-76/home/developer/Рабочий стол/messenger-ya/dist/group.576c586d.svg1678533964950428613 0
 91/home/developer/Рабочий стол/messenger-ya/node_modules/domutils/lib/helpers.d.ts499162500000000000 0
 116/home/developer/Рабочий стол/messenger-ya/node_modules/@parcel/runtime-js/lib/helpers/worker/js-loader.js499162500000000000 0
 103/home/developer/Рабочий стол/messenger-ya/node_modules/@parcel/runtime-js/lib/helpers/worker1677806993834781131 1
@@ -2312,7 +2313,7 @@
 74/home/developer/Рабочий стол/messenger-ya/node_modules/raw-body1678527471838543163 1
 86/home/developer/Рабочий стол/messenger-ya/node_modules/globals/globals.json499162500000000000 0
 88/home/developer/Рабочий стол/messenger-ya/node_modules/isarray/component.json1449741845000000000 0
-65/home/developer/Рабочий стол/messenger-ya/package.json1678530197259623701 0
+65/home/developer/Рабочий стол/messenger-ya/package.json1678540855226275097 0
 119/home/developer/Рабочий стол/messenger-ya/node_modules/caniuse-lite/data/features/css-repeating-gradients.js499162500000000000 0
 81/home/developer/Рабочий стол/messenger-ya/node_modules/globals/license499162500000000000 0
 74/home/developer/Рабочий стол/messenger-ya/node_modules/entities1677807002678729287 1
@@ -2393,6 +2394,7 @@
 94/home/developer/Рабочий стол/messenger-ya/node_modules/remarkable/bin/remarkable.js1564507405000000000 0
 85/home/developer/Рабочий стол/messenger-ya/node_modules/yaml/parse-cst.d.ts499162500000000000 0
 93/home/developer/Рабочий стол/messenger-ya/node_modules/yaml/dist/legacy-exports.js499162500000000000 0
+79/home/developer/Рабочий стол/messenger-ya/dist/index.1b2443cd.js.map1678540865494215992 0
 97/home/developer/Рабочий стол/messenger-ya/node_modules/@swc/helpers/src/_construct.mjs1655364223000000000 0
 83/home/developer/Рабочий стол/messenger-ya/node_modules/yaml/dist/util.js499162500000000000 0
 94/home/developer/Рабочий стол/messenger-ya/node_modules/yaml/dist/Schema-88e323a7.js499162500000000000 0
@@ -2464,7 +2466,6 @@
 100/home/developer/Рабочий стол/messenger-ya/node_modules/object-inspect/example/circular.js499162500000000000 0
 97/home/developer/Рабочий стол/messenger-ya/node_modules/caniuse-lite/data/regions/DO.js499162500000000000 0
 98/home/developer/Рабочий стол/messenger-ya/node_modules/remarkable/lib/common/html_re.js1564507405000000000 0
-80/home/developer/Рабочий стол/messenger-ya/dist/menu_bars.31aa13cc.svg1678533965062428019 0
 89/home/developer/Рабочий стол/messenger-ya/node_modules/proxy-addr/package.json1678527471830543200 0
 96/home/developer/Рабочий стол/messenger-ya/node_modules/@parcel/core/lib/assetUtils.js499162500000000000 0
 85/home/developer/Рабочий стол/messenger-ya/node_modules/moment/locale/af.js499162500000000000 0
@@ -2497,7 +2498,6 @@
 94/home/developer/Рабочий стол/messenger-ya/node_modules/@parcel/packager-raw/LICENSE499162500000000000 0
 92/home/developer/Рабочий стол/messenger-ya/node_modules/object-inspect/test/has.js499162500000000000 0
 85/home/developer/Рабочий стол/messenger-ya/node_modules/fraction.js/LICENSE499162500000000000 0
-79/home/developer/Рабочий стол/messenger-ya/dist/index.3d214d75.js.map1678533965022428231 0
 97/home/developer/Рабочий стол/messenger-ya/node_modules/object-inspect/test/circular.js499162500000000000 0
 92/home/developer/Рабочий стол/messenger-ya/node_modules/moment/src/locale/it-ch.js499162500000000000 0
 96/home/developer/Рабочий стол/messenger-ya/node_modules/object-inspect/test/inspect.js499162500000000000 0
@@ -2526,7 +2526,6 @@
 102/home/developer/Рабочий стол/messenger-ya/node_modules/autoprefixer/lib/hacks/grid-start.js499162500000000000 0
 94/home/developer/Рабочий стол/messenger-ya/node_modules/csso/lib/restructure/prepare1677806994058779817 1
 89/home/developer/Рабочий стол/messenger-ya/node_modules/ansi-white/package.json1677807199009578728 0
-88/home/developer/Рабочий стол/messenger-ya/dist/open-chat-profile.46391251.png1678533964982428443 0
 115/home/developer/Рабочий стол/messenger-ya/node_modules/expand-brackets/node_modules/debug/.coveralls.yml1497485783000000000 0
 99/home/developer/Рабочий стол/messenger-ya/node_modules/caniuse-lite/data/features/es5.js499162500000000000 0
 105/home/developer/Рабочий стол/messenger-ya/node_modules/caniuse-lite/data/features/clipboard.js499162500000000000 0
@@ -2996,7 +2995,6 @@
 86/home/developer/Рабочий стол/messenger-ya/node_modules/moment/locale/tzl.js499162500000000000 0
 104/home/developer/Рабочий стол/messenger-ya/node_modules/@parcel/transformer-image/package.json1677807002750728864 0
 103/home/developer/Рабочий стол/messenger-ya/node_modules/highlight.js/styles/atom-one-dark.css499162500000000000 0
-77/home/developer/Рабочий стол/messenger-ya/dist/delete.9cc88cee.svg1678533965062428019 0
 91/home/developer/Рабочий стол/messenger-ya/node_modules/neo-async/eachOfSeries.js499162500000000000 0
 110/home/developer/Рабочий стол/messenger-ya/node_modules/handlebars/dist/amd/handlebars/decorators.js499162500000000000 0
 93/home/developer/Рабочий стол/messenger-ya/node_modules/moment/dist/locale/ar-ma.js499162500000000000 0
@@ -3167,6 +3165,7 @@
 99/home/developer/Рабочий стол/messenger-ya/node_modules/highlight.js/styles/a11y-dark.css499162500000000000 0
 122/home/developer/Рабочий стол/messenger-ya/node_modules/dom-serializer/node_modules/entities/lib/decode.d.ts.map499162500000000000 0
 93/home/developer/Рабочий стол/messenger-ya/node_modules/moment/dist/locale/bn-bd.js499162500000000000 0
+83/home/developer/Рабочий стол/messenger-ya/dist/insert_image.9245b797.svg1678540863198229206 0
 97/home/developer/Рабочий стол/messenger-ya/node_modules/sprintf-js/dist/sprintf.min.map1436535223000000000 0
 95/home/developer/Рабочий стол/messenger-ya/node_modules/css-tree/lib/parser/create.js499162500000000000 0
 106/home/developer/Рабочий стол/messenger-ya/node_modules/array-sort/node_modules/kind-of/index.js1507878123000000000 0
@@ -4169,7 +4168,6 @@
 99/home/developer/Рабочий стол/messenger-ya/node_modules/dom-serializer/lib/esm/index.d.ts499162500000000000 0
 115/home/developer/Рабочий стол/messenger-ya/node_modules/@parcel/source-map/parcel_sourcemap_node/build.rs499162500000000000 0
 102/home/developer/Рабочий стол/messenger-ya/node_modules/remarkable/lib/rules_core/linkify.js1564507405000000000 0
-83/home/developer/Рабочий стол/messenger-ya/dist/insert_image.fdf012f2.svg1678533964950428613 0
 107/home/developer/Рабочий стол/messenger-ya/node_modules/autoprefixer/lib/hacks/background-clip.js499162500000000000 0
 84/home/developer/Рабочий стол/messenger-ya/node_modules/tslib/package.json1677807002858728231 0
 92/home/developer/Рабочий стол/messenger-ya/node_modules/neo-async/forEachSeries.js499162500000000000 0
@@ -4702,7 +4700,7 @@
 91/home/developer/Рабочий стол/messenger-ya/node_modules/htmlnano/docs/sidebars.js499162500000000000 0
 94/home/developer/Рабочий стол/messenger-ya/node_modules/@parcel/transformer-json/src1677806993278784390 1
 118/home/developer/Рабочий стол/messenger-ya/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest_enc.c499162500000000000 0
-52/home/developer/Рабочий стол/messenger-ya1678531365759462222 1
+52/home/developer/Рабочий стол/messenger-ya1678540862990230402 1
 100/home/developer/Рабочий стол/messenger-ya/node_modules/highlight.js/lib/languages/java.js499162500000000000 0
 111/home/developer/Рабочий стол/messenger-ya/node_modules/handlebars/dist/handlebars.runtime.amd.min.js499162500000000000 0
 110/home/developer/Рабочий стол/messenger-ya/node_modules/highlight.js/styles/atelier-seaside-dark.css499162500000000000 0
@@ -5252,7 +5250,6 @@
 86/home/developer/Рабочий стол/messenger-ya/node_modules/serve-static/LICENSE499162500000000000 0
 99/home/developer/Рабочий стол/messenger-ya/node_modules/highlight.js/lib/languages/ada.js499162500000000000 0
 90/home/developer/Рабочий стол/messenger-ya/node_modules/unset-value/package.json1677807199105578166 0
-82/home/developer/Рабочий стол/messenger-ya/dist/messenger-ya.3464ddca.js1678443141967168279 0
 90/home/developer/Рабочий стол/messenger-ya/node_modules/moment/dist/locale/ca.js499162500000000000 0
 108/home/developer/Рабочий стол/messenger-ya/node_modules/msgpackr-extract/bin/download-prebuilds.js499162500000000000 0
 95/home/developer/Рабочий стол/messenger-ya/node_modules/js-yaml/lib/js-yaml/schema.js499162500000000000 0
@@ -5270,7 +5267,6 @@
 78/home/developer/Рабочий стол/messenger-ya/node_modules/finalhandler1678527471830543200 1
 99/home/developer/Рабочий стол/messenger-ya/node_modules/highlight.js/styles/hopscotch.css499162500000000000 0
 112/home/developer/Рабочий стол/messenger-ya/node_modules/caniuse-lite/data/features/array-find-index.js499162500000000000 0
-86/home/developer/Рабочий стол/messenger-ya/dist/messenger-ya.3464ddca.js.map1678443141979168202 0
 108/home/developer/Рабочий стол/messenger-ya/node_modules/@lmdb/lmdb-linux-x64/node.abi102.musl.node499162500000000000 0
 84/home/developer/Рабочий стол/messenger-ya/node_modules/date.js/History.md1523113516000000000 0
 97/home/developer/Рабочий стол/messenger-ya/node_modules/caniuse-lite/data/regions/TZ.js499162500000000000 0
@@ -5455,6 +5451,7 @@
 91/home/developer/Рабочий стол/messenger-ya/node_modules/snapdragon-node/README.md1493640404000000000 0
 116/home/developer/Рабочий стол/messenger-ya/node_modules/htmlnano/lib/modules/deduplicateAttributeValues.js499162500000000000 0
 116/home/developer/Рабочий стол/messenger-ya/node_modules/caniuse-lite/data/features/spellcheck-attribute.js499162500000000000 0
+77/home/developer/Рабочий стол/messenger-ya/dist/delete.1cd645ea.svg1678540865482216062 0
 120/home/developer/Рабочий стол/messenger-ya/node_modules/snapdragon/node_modules/source-map/lib/mapping-list.js1492467891000000000 0
 94/home/developer/Рабочий стол/messenger-ya/node_modules/msgpackr-extract/binding.gyp499162500000000000 0
 103/home/developer/Рабочий стол/messenger-ya/node_modules/dom-serializer/lib/esm/index.d.ts.map499162500000000000 0
@@ -6025,7 +6022,7 @@
 78/home/developer/Рабочий стол/messenger-ya/node_modules/ansi-magenta1677807199013578705 1
 81/home/developer/Рабочий стол/messenger-ya/node_modules/handlebars/dist1678177707744199386 1
 112/home/developer/Рабочий стол/messenger-ya/node_modules/handlebars/lib/handlebars/compiler/code-gen.js499162500000000000 0
-57/home/developer/Рабочий стол/messenger-ya/dist1678533965062428019 1
+57/home/developer/Рабочий стол/messenger-ya/dist1678540865494215992 1
 111/home/developer/Рабочий стол/messenger-ya/node_modules/handlebars/lib/handlebars/compiler/printer.js499162500000000000 0
 96/home/developer/Рабочий стол/messenger-ya/node_modules/csso/lib/clean/TypeSelector.js499162500000000000 0
 123/home/developer/Рабочий стол/messenger-ya/node_modules/handlebars/lib/handlebars/compiler/javascript-compiler.js499162500000000000 0
@@ -6085,7 +6082,6 @@
 98/home/developer/Рабочий стол/messenger-ya/node_modules/@parcel/resolver-default/LICENSE499162500000000000 0
 102/home/developer/Рабочий стол/messenger-ya/node_modules/lmdb/dependencies/lz4/lib/lz4frame.h499162500000000000 0
 88/home/developer/Рабочий стол/messenger-ya/node_modules/timsort/src/timsort.js1469384598000000000 0
-80/home/developer/Рабочий стол/messenger-ya/dist/index.43b35a30.css.map1678533964958428571 0
 114/home/developer/Рабочий стол/messenger-ya/node_modules/snapdragon/node_modules/source-map/lib/base64.js1492467891000000000 0
 83/home/developer/Рабочий стол/messenger-ya/node_modules/timsort/README.md1469388879000000000 0
 117/home/developer/Рабочий стол/messenger-ya/node_modules/handlebars-helpers/node_modules/braces/node_modules1677807198889579431 1
@@ -6153,6 +6149,7 @@
 97/home/developer/Рабочий стол/messenger-ya/node_modules/caniuse-lite/data/regions/BM.js499162500000000000 0
 81/home/developer/Рабочий стол/messenger-ya/node_modules/.bin/esvalidate1677807199449576150 0
 107/home/developer/Рабочий стол/messenger-ya/node_modules/type-fest/source/require-exactly-one.d.ts499162500000000000 0
+80/home/developer/Рабочий стол/messenger-ya/dist/open-chat.1603e917.png1678540863014230266 0
 79/home/developer/Рабочий стол/messenger-ya/node_modules/dotenv-expand1677807002678729287 1
 155/home/developer/Рабочий стол/messenger-ya/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/package.json499162500000000000 0
 97/home/developer/Рабочий стол/messenger-ya/node_modules/caniuse-lite/data/regions/AL.js499162500000000000 0
@@ -6821,6 +6818,7 @@
 92/home/developer/Рабочий стол/messenger-ya/node_modules/nth-check/lib/compile.d.ts499162500000000000 0
 100/home/developer/Рабочий стол/messenger-ya/node_modules/highlight.js/styles/a11y-light.css499162500000000000 0
 112/home/developer/Рабочий стол/messenger-ya/node_modules/caniuse-lite/data/features/devicepixelratio.js499162500000000000 0
+65/home/developer/Рабочий стол/messenger-ya/netlify.toml1678535007597068424 0
 97/home/developer/Рабочий стол/messenger-ya/node_modules/@parcel/workers/src/Profiler.js499162500000000000 0
 97/home/developer/Рабочий стол/messenger-ya/node_modules/caniuse-lite/data/regions/US.js499162500000000000 0
 96/home/developer/Рабочий стол/messenger-ya/node_modules/nth-check/lib/compile.d.ts.map499162500000000000 0
